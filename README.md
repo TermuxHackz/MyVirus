@@ -37,3 +37,5 @@ Virus.bat is for making viruses for window OS and crash a computer operating in 
 *Termux Android Hackers, Hacker's United, Level IV NOOBS*
 
 Star this repo and follow me for more tools.
+
+To view the created virus, check the tool's directory
