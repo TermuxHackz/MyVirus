@@ -4,7 +4,7 @@ Create Virus.bat viruses for windows OS
 Virus.bat is for making viruses for window OS and crash a computer operating in windows platform
 
 # Author:
-**Anonyminhack5**
+**Anonyminhack5**\n
 *Twitter handle:* @AnonyminHack5, follow me
 
 # Installation In Termux
